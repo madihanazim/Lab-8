@@ -35,5 +35,8 @@ Animation with durations
   We are going to animate a flip like this with 1 single function.
   write flip flash card code and animate card code and run it. 
  
+ 
+ 
+ http://g.recordit.co/eLS1bPRFLb.gif
 
 
